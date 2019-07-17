@@ -1,0 +1,13 @@
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form_Giris.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.FormUyeKayit.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.FormMembers.resources
+C:\Users\Section1.DESKTOP-2JD3BUB\source\repos\LibraryProject\LibraryProject\obj\Debug\LibraryProject.FormDeliver.resources
